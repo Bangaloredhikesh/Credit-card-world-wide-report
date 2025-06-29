@@ -14,9 +14,7 @@ This Credit card report analyse how various factors such as geographical and soc
 4, Data Modelling
 5, File format
 
-4. Data Source:
-
-  a.Google
+4. Data Source: Google
 
 5. Features/highlights
   a.Understanding the customer behaviours on various socio, economic and geographical factors
